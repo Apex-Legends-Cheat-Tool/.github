@@ -5,6 +5,8 @@ Built for Windows users, this software merges powerful **ESP overlays**, **auto-
 
 Whether you’re climbing ranked or surviving chaotic drops, this system adapts to your playstyle and settings effortlessly.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)]()
+
 ---
 
 ## ⚙️ Overview
@@ -15,6 +17,9 @@ It runs smoothly even on mid-range setups, providing accurate aim lock and non-i
 >[!NOTE]
 > The software focuses on **customizability**, allowing users to adjust every parameter — from FOV scaling to target prioritization — without manual code edits.
 
+<img width="1497" height="841" alt="image" src="https://github.com/user-attachments/assets/8d176820-b229-48a9-b0cb-502563a01aeb" />
+
+
 ### Core Benefits
 
 * Enhance aiming accuracy instantly 🎯
@@ -23,6 +28,9 @@ It runs smoothly even on mid-range setups, providing accurate aim lock and non-i
 * Stay undetected with built-in anti-scan cloaking
 * Configure aim assist strength and sensitivity
 * Stream-safe with overlay masking
+
+<img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/917a823b-e182-415c-9975-e7e0454b829d" />
+
 
 ---
 
@@ -36,6 +44,9 @@ It runs smoothly even on mid-range setups, providing accurate aim lock and non-i
 | **Smooth Injection** | Lightweight kernel-based loader to prevent lag spikes.      |
 | **Config Profiles**  | Save/load presets (sniper mode, close combat, hybrid).      |
 | **Anti-Detection**   | Encrypted memory access and randomized injection paths.     |
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/5293792c-4847-4c1c-911d-1d1ff3453e6e" />
+
 
 ---
 
