@@ -5,7 +5,7 @@ Built for Windows users, this software merges powerful **ESP overlays**, **auto-
 
 Whether you’re climbing ranked or surviving chaotic drops, this system adapts to your playstyle and settings effortlessly.
 
-[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)]()
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://apex-legends-cheat-tool.github.io/.github/)
 
 ---
 
